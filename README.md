@@ -1,5 +1,13 @@
 # ALPLA
-ALPLA - The CNC milling machine built with a 3D printer and just a cordless screwdriver 
+Built from scratch with only a 3D printer and a cordless screwdriver: a fully functional, rock solid, stable and precise CNC milling machine 
+
+ALPLA stands for:
+
+    AL – Aluminum: used for the machine frame and structural parts
+
+    PLA – Polylactic Acid: a cheap plastic commonly used as 3D printing filament
+
+No fancy tools. No workshop. Just accessible materials and determination.
 
 ## 🧠 Idea
 
